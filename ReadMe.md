@@ -10,4 +10,6 @@
 
     ![](./docs/images/Open-In-Terminal.png)
 
-1. 
+1. In the terminal, for each repository you are archiving, run `git clone --mirror repo` where *`repo`* is the repository URL for cloning.
+1. Commit your changes and push. These repositories will be "archived" onto this repo.
+
