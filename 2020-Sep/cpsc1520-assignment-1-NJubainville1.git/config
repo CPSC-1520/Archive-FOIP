@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/CPSC-1520/cpsc1520-assignment-1-NJubainville1.git
+	fetch = +refs/*:refs/*
+	mirror = true
